@@ -1,0 +1,24 @@
+{
+  "name": "chriwo/femanager_extended_search",
+  "description": "Example addon extension to demonstrate an extended search",
+  "version": "1.0.0",
+  "keywords": ["typo3", "form", "femanager", "fe_users", "registration"],
+  "homepage": "http://www.chriwo.de",
+  "authors": [
+    {
+      "name": "Christian Wolfram",
+      "email": "c.wolfram@chriwo.de"
+    }
+  ],
+  "type": "typo3-cms-extension",
+  "license": "GPL-3.0",
+  "require": {
+    "typo3/cms": ">=7.6.0 <8.0.0",
+    "typo3-ter/femanager": "^2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ChriWo\\FemanagerExtendedSearch\\": "Classes"
+    }
+  }
+}

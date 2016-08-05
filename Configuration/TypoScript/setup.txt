@@ -1,0 +1,39 @@
+config.tx_extbase {
+    objects {
+        In2code\Femanager\Controller\UserController {
+            className = ChriWo\FemanagerExtendedSearch\Controller\UserController
+        }
+    }
+}
+
+plugin {
+    tx_femanager {
+        _LOCAL_LANG {
+            default {
+                searchGroupLabel = Category selection
+                searchGroupPlaceholder = All categories
+            }
+
+            de {
+                searchGroupLabel = Kategoriewahl
+                searchGroupPlaceholder = Alle Kategorien
+            }
+        }
+
+        view {
+            partialRootPaths {
+                1470159239 = EXT:femanager_extended_search/Resources/Private/Partials/
+            }
+        }
+
+        settings {
+            list {
+                filter {
+                    searchgroup {
+                        removeFromUserGroupSelection =
+                    }
+                }
+            }
+        }
+    }
+}
