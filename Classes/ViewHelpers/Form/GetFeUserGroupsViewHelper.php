@@ -34,7 +34,7 @@ use TYPO3\CMS\Fluid\Core\ViewHelper\AbstractViewHelper;
  * @package TYPO3
  * @subpackage femanager_extended_search
  */
-class GetFeUserGroupsViewHelper
+class GetFeUserGroupsViewHelper extends AbstractViewHelper
 {
     /**
      * FegroupRepository
@@ -47,7 +47,7 @@ class GetFeUserGroupsViewHelper
     /**
      * Build an feUserGroup array
      *
-     * @param string $removeFromUserGroupSelection commaseparated list
+     * @param string $removeFromUserGroupSelection comma separated list
      * @return array
      */
     public function render($removeFromUserGroupSelection = '')
