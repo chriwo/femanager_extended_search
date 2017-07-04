@@ -5,7 +5,7 @@ namespace ChriWo\FemanagerExtendedSearch\Controller;
  *
  *  Copyright notice
  *
- *  (c) 2016 Christian Wolfram <c.wolfram@chriwo.de>
+ *  (c) 2016-2017 Christian Wolfram <c.wolfram@chriwo.de>
  *
  *  All rights reserved
  *
