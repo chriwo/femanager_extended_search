@@ -1,0 +1,18 @@
+1.0.1 - 2016/07/04
+==================
+
+Bugfix Release
+--------------
+This is an bugfix release.
+
+All Changes
+-----------
+This is a list of all changes in this release: ::
+
+    2017-07-04 [RELEASE] Set femanager_extended_search version to 1.0.1
+    2017-07-04 [DOC] Update readme
+    2017-07-04 [TASK] Update copyright (Commit: 9d5a52f by Christian Wolfram)
+    2017-07-04 [BUGFIX] Extend viewhelper from core AbstractViewhelper (Commit: c0dff5a by Christian Wolfram)
+    2017-07-04 [BUGFIX] Wrong In2code namespace (Commit: d6c7fdf by Christian Wolfram)
+    2017-07-04 [TASK] Set version to 1.0.1-dev (Commit: 7778564 by Christian Wolfram)
+

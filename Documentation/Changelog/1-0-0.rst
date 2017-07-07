@@ -1,0 +1,7 @@
+1.0.0 - 2016/08/05
+==================
+
+::
+
+    Initial GitHub release – looking forward for your feedback!
+

@@ -1,0 +1,20 @@
+1.0.2 - 2016/07/07
+==================
+
+Bugfix Release
+--------------
+This is an bugfix release.
+
+All Changes
+-----------
+This is a list of all changes in this release: ::
+
+    2017-07-07 [TASK] Change extension icon (Commit 4b85429 by Christian Wolfram)
+    2017-07-07 [TASK] Update the extension description (Commit ffd71b2 by Christian Wolfram)
+    2017-07-07 [TASK] Remove version definition in composer (Commit 17d89bd by Christian Wolfram)
+    2017-07-07 [TASK] Extend author section (Commit e7cbe30 by Christian Wolfram)
+    2017-07-07 [TASK] Adding support section for composer (Commit d14df27 by Christian Wolfram)
+    2017-07-07 [TASK] Adding replace section for composer (Commit 0267a9c by Christian Wolfram)
+    2017-07-07 [BUGFIX] Using wrong css classes and id (Commit e33cd67 by Christian Wolfram)
+    2017-07-07 [TASK] Set femanager_extended_search version to 1.0.2-dev (Commit 8ba4dbb by Christian Wolfram)
+

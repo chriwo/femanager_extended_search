@@ -1,0 +1,11 @@
+.. |searchbox|      image:: ../Images/femanager_extended_search_searchbar.png
+.. :align: left
+.. :border: 0
+.. :name: searchbox
+.. :vspace: 20
+
+.. |searchselect|      image:: ../Images/femanager_extended_search_searchselect.png
+.. :align: left
+.. :border: 0
+.. :name: searchselect
+.. :vspace: 20
