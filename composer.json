@@ -16,6 +16,10 @@
     "typo3/cms": ">=7.6.0 <8.0.0",
     "typo3-ter/femanager": "^2"
   },
+  "replace": {
+    "femanager_extended_search": "self.version",
+    "typo3-ter/femanager-extended-search": "self.version"
+  },
   "autoload": {
     "psr-4": {
       "ChriWo\\FemanagerExtendedSearch\\": "Classes"
