@@ -9,6 +9,8 @@ All Changes
 -----------
 This is a list of all changes in this release: ::
 
+    2017-07-07 [RELEASE] Set version of femanager_extended_search to 1.0.2
+    2017-07-07 [TASK] Create an sphinx documentation (Commit 6432536 by Christian Wolfram)
     2017-07-07 [TASK] Change extension icon (Commit 4b85429 by Christian Wolfram)
     2017-07-07 [TASK] Update the extension description (Commit ffd71b2 by Christian Wolfram)
     2017-07-07 [TASK] Remove version definition in composer (Commit 17d89bd by Christian Wolfram)
