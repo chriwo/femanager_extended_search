@@ -10,7 +10,9 @@
   "authors": [
     {
       "name": "Christian Wolfram",
-      "email": "c.wolfram@chriwo.de"
+      "email": "c.wolfram@chriwo.de",
+      "role": "Developer",
+      "homepage": "http://www.chriwo.de"
     }
   ],
   "type": "typo3-cms-extension",
