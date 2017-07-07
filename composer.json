@@ -1,6 +1,6 @@
 {
   "name": "chriwo/femanager_extended_search",
-  "description": "Example addon extension to demonstrate an extended search",
+  "description": "Expand the search function of femanager to be able to filter by user groups",
   "keywords": ["typo3", "form", "femanager", "fe_users", "registration"],
   "homepage": "https://github.com/chriwo/femanager_extended_search",
   "support": {

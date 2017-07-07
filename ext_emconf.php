@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'Extended femanager search',
-    'description' => 'Example addon extension to demonstrate an extended search',
+    'description' => 'Expand the search function of femanager to be able to filter by user groups',
     'category' => 'example',
     'author' => 'Christian Wolfram',
     'author_email' => 'c.wolfram@ideenwerft.com',
