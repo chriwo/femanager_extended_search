@@ -31,6 +31,28 @@ use TYPO3\CMS\Fluid\Core\ViewHelper\AbstractViewHelper;
 /**
  * Class GetFeUserGroupsViewHelper
  *
+ * = Example =
+ *
+ * <code title="Default">
+ *  <chriwo:form.getFeUserGroups removeFromUserGroupSelection="2,4,6,8" />
+ * </code>
+ * <output>
+ *  [
+ *      1 => \In2code\Femanager\Domain\Model\UserGroup
+ *      5 => \In2code\Femanager\Domain\Model\UserGroup
+ *  ]
+ * </output>
+ *
+ * <code title="Inline">
+ *  {chriwo:form.getFeUserGroups(removeFromUserGroupSelection:"2,4,6,8")}
+ * </code>
+ * <output>
+ *  [
+ *      1 => \In2code\Femanager\Domain\Model\UserGroup
+ *      5 => \In2code\Femanager\Domain\Model\UserGroup
+ *  ]
+ * </output>
+ *
  * @package TYPO3
  * @subpackage femanager_extended_search
  */
