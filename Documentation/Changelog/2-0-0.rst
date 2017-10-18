@@ -1,0 +1,23 @@
+2.0.0 - 2017/10/19
+==================
+
+Finally 2.0.0 has been released which supports both current LTS versions, 8 LTS.
+
+Version dependency 8.7+
+-----------------------
+To improve the performance and code quality, at least TYPO3 8.7. are required.
+
+All Changes
+-----------
+This is a list of all changes in this release: ::
+
+    2017-10-19 [RELEASE] Set version of femanager_extended_search to 2.0.0
+    2017-10-19 [DOC] Add changelog
+    2017-10-19 [DOC] Change intersphinx mapping uri to https (Commit: 5649f29 by Christian Wolfram)
+    2017-10-19 [DOC] Update version numbers (Commit: c3b3099 by Christian Wolfram)
+    2017-10-18 [TASK] Add usage example (Commit: 8616a19 by Christian Wolfram)
+    2017-10-18 [TASK] Add usage example (Commit: aad0046 by Christian Wolfram)
+    2017-10-18 [TASK] Register namespace "chriwo" for fluid (Commit: bbb421e by Christian Wolfram)
+    2017-10-18 [TASK] Fix PHP7 issue (Commit: 134b7c0 by Christian Wolfram)
+    2017-10-18 [TASK] Set to dev version 2.0.0 and compatibility to TYPO3 v8 and femanager v3 (Commit: 0effd96 by Christian Wolfram)
+
