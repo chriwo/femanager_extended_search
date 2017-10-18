@@ -39,7 +39,7 @@ class UserController extends \In2code\Femanager\Controller\UserController
      * @param array $filter
      * @return void
      */
-    public function listAction($filter = [])
+    public function listAction(array $filter = [])
     {
         if (!empty($filter['searchgroup'])) {
             $this->settings['list']['usergroup'] = intval($filter['searchgroup']);
