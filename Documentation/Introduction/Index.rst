@@ -24,7 +24,7 @@ Add and select box with frontend user groups to filter the frontend user by thei
 Requirements
 ------------
 
-- TYPO3 7.6
+- TYPO3 8.7
 - Extbase / Fluid
 - Ext: femanager
 
