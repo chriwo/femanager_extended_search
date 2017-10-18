@@ -17,8 +17,8 @@
   "type": "typo3-cms-extension",
   "license": "GPL-3.0",
   "require": {
-    "typo3/cms": ">=7.6.0 <8.0.0",
-    "typo3-ter/femanager": "^2"
+    "typo3/cms": ">=8.7.0 <9",
+    "typo3-ter/femanager": "^3"
   },
   "replace": {
     "femanager_extended_search": "self.version",
